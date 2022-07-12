@@ -1,5 +1,6 @@
 # login_registering-with-python
 Using python, I coded a login/register code where accounts and user data can be safed in a json file. 
+Run the json_filecreate.py first or there will be errors!
 Currently in v1.3 of the codes, codes can now:
 - Comprehend usernames (Last time it was cap sensitive)
 - alnum func codes were improved/shortened
